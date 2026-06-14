@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "telemetry-lights")(type "KiCad")(uri "${KIPRJMOD}/telemetry-lights.kicad_sym")(options "")(descr ""))
+)
