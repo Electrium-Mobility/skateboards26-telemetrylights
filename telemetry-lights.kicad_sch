@@ -3200,9 +3200,9 @@
 		)
 		(uuid "07e72d94-4e5b-460b-81d4-d95bffce7375")
 	)
-	(text "Current Sense IC"
+	(text "Current Sense IC + Lights Circuit"
 		(exclude_from_sim no)
-		(at 143.764 24.13 0)
+		(at 150.622 23.622 0)
 		(effects
 			(font
 				(size 1.27 1.27)
