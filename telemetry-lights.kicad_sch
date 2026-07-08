@@ -4691,7 +4691,7 @@
 		(uuid "05db4ffc-3bfe-4dc8-954d-ebb895c587e9")
 	)
 	(label "SDA"
-		(at 123.19 177.8 180)
+		(at 123.19 179.07 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4741,7 +4741,7 @@
 		(uuid "41edc10a-77ac-4e49-9e43-4da2ab5c0cae")
 	)
 	(label "SCL"
-		(at 123.19 167.64 180)
+		(at 123.19 168.91 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4929,7 +4929,7 @@
 				)
 			)
 		)
-		(property "Footprint" "UFQFPN-32"
+		(property "Footprint" "telemetry-lights:UFQFPN-32"
 			(at 34.29 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -5180,7 +5180,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:VSSOP-10_3x3mm_P0.5mm"
+		(property "Footprint" "telemetry-lights:VSSOP-10_3x3mm_P0.5mm"
 			(at 193.04 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -5285,7 +5285,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 106.68 98.0948 0)
 			(hide yes)
 			(show_name no)
@@ -5765,7 +5765,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 106.68 105.7148 0)
 			(hide yes)
 			(show_name no)
@@ -6003,7 +6003,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_Shunt_Ohmite_LVK20"
 			(at 151.892 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -6244,7 +6244,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 101.854 61.214 90)
 			(hide yes)
 			(show_name no)
@@ -6323,7 +6323,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 101.854 66.294 90)
 			(hide yes)
 			(show_name no)
@@ -6567,7 +6567,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 132.334 167.894 90)
 			(hide yes)
 			(show_name no)
@@ -6730,7 +6730,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical"
 			(at 128.27 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -6977,7 +6977,7 @@
 				)
 			)
 		)
-		(property "Footprint" "IAM-20381HT:XDCR_IAM-20381HT"
+		(property "Footprint" "telemetry-lights:XDCR_IAM-20381HT"
 			(at 241.3 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -7304,7 +7304,7 @@
 				)
 			)
 		)
-		(property "Footprint" "UFQFPN-32"
+		(property "Footprint" "telemetry-lights:UFQFPN-32"
 			(at 24.13 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -7642,7 +7642,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 105.41 79.0448 0)
 			(hide yes)
 			(show_name no)
@@ -7724,7 +7724,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
 			(at 176.53 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -7803,7 +7803,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 266.7 56.8452 0)
 			(hide yes)
 			(show_name no)
@@ -8434,7 +8434,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 86.0552 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -9461,7 +9461,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 132.334 178.054 90)
 			(hide yes)
 			(show_name no)
