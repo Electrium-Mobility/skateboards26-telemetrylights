@@ -8385,7 +8385,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints:P39_SOD-323P"
+		(property "Footprint" "Diode_SMD:D_SOD-323F"
 			(at 69.215 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -10798,7 +10798,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints:CONN6x1_G800W302018EU_AMP"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 78.74 227.33 0)
 			(hide yes)
 			(show_name no)
