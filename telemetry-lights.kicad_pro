@@ -63,7 +63,7 @@
           "min_clearance": 0.5,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
-          "pad_connection": 1,
+          "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
@@ -211,7 +211,8 @@
       ],
       "track_widths": [
         0.0,
-        0.127
+        0.127,
+        0.5
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -774,7 +775,7 @@
         "uuid": "dbda24e8-e12f-4daa-a5c6-dd15f88c2d35"
       }
     ],
-    "used_designators": "",
+    "used_designators": "H2-3",
     "variants": []
   },
   "sheets": [
